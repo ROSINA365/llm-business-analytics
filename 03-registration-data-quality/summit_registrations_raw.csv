@@ -1,0 +1,121 @@
+reg_id,full_name,email,phone,company,job_title,state,registration_date,ticket_type,amount_paid,dietary_notes,workshop
+R5068,Kara O'Neil,kara.oneil@outlook.com,(701) 892-6765,Cargill,Chief Data Officer,minnesota,"January 15, 2026",EARLYBIRD,$249,,Dashboard Design
+R5090,Nikhil Wold,nikhil_wold@cargill.org,16058848469,Cargill,Business Analyst,south dakota,02/01/2026,Early Bird,$249.00,none,Dashboard Design
+R5030,Emily Dvorak,emilyd@citibanksout.org,(515) 838-4412,Citibank South Dakota,Project Manager - Data,IOWA,2026-03-08,regular admission,USD 349,none,LLMs for Analysts
+R5012,Ximena Solberg,ximena.solberg@southdakotas.org,,South Dakota State University,MS Business Analytics Student,NE,2026-01-30,Student,$49,-,Causal Inference
+R5027,Yusuf Iverson,yusufi@daktronics.org,701-797-7864,Daktronics,Reporting Specialist,ND,"January 20, 2026",EARLYBIRD,USD 249,GF,None
+R5015,KARA YODER,kyoder@southdakotas.org,605.671.7510,South Dakota State University,Undergraduate student,S.D.,"January 19, 2026",student pass,$49,vegetarian,Dashboard Design
+R5095,Pedro Quist,pquist@sanfordhealt.org,+1 605 899 1996,Sanford Health,Director of Analytics,SD,2026-01-23,regular admission,349.00,vegetarian,LLMs for Analysts
+R5043,Elena Eide,elena_eide@yahoo.com,(605) 552-5270,SANFORD HEALTH,Data Science Team Lead,S Dakota,2026/03/20,Regular,$349.00,lacto-ovo vegetarian,Causal Inference
+R5050,Lars Wold,larsw@yahoo.com,6058564913,South Dakota State University,Undergraduate student,South Dakota,2026-03-14,STUDENT,$49.00,-,LLMs for Analysts
+R5060,Carmen Kowalski,carmen.kowalski@ravenindustr.org,16084966935,Raven Industries,Business Analyst,Iowa,02/19/2026,Early bird registration,,no restrictions,Dashboard Design
+R5097,  Ingrid Lundquist ,ingrid_lundquist@gmail.com,16128846202,South Dakota State University,Reporting Specialist,Iowa,3/22/26,Regular,349,lacto-ovo vegetarian,LLMs for Analysts
+R5079,Elena Thao,elenat@universityof.org,605.614.4544,University of South Dakota,Undergraduate student,S Dakota,3/29/26,STUDENT,$49.00,no restrictions,Causal Inference
+R5022,Isabel Xiong,isabel.xiongmidco.org,16059782497,Midco,"Senior Director, Enterprise Data",South Dakota,2026/02/13,regular admission,349,-,dbt Fundamentals
+R5045,INGRID CASTILLO,icastillo@blackhillsen.org,,Black Hills Energy,Data Engineer II,S.D.,3/24/26,regular admission,349,no restrictions,Dashboard Design
+R5059,Ximena Xiong,ximenax@daktronics.org,402.435.9791,Daktronics,Sr. Data Analyst,MN,02/20/2026,Early bird registration,$249,"Vegetarian (no meat, fish ok?) actually no fish either",Causal Inference
+R5053,jamal ueland,jamalu@yahoo.com,612-279-2338,Hy-Vee,Dir. Data Strategy,Minnesota,2/10/26,EB,$249.00,none,Dashboard Design
+R5048,Vanessa Fong,vanessa.fong@southdakotas.org,(608) 623-1034,SOUTH DAKOTA STATE UNIVERSITY,Head of BI,Ia.,2026/04/19,Standard,349,veggie please,dbt Fundamentals
+R5098,  Isabel O'Neil ,isabel_oneil@target.org,605.822.7294,Target,"Senior Director, Enterprise Data",South Dakota,04/19/2026,regular admission,349.00,GF,dbt Fundamentals
+R5080,BROOKE CASTILLO,bcastillo@yahoo.com,6053594024,South Dakota State University,Reporting Specialist,South Dakota,2026-04-14,Regular,349,,Dashboard Design
+R5112,Pedro Mahmoud,pedrom@wellsfargo.org,,Wells Fargo,Analytics Manager,South Dakota,2/26/26,Regular,$349,N/A,
+R5051,FARID EIDE,faride@dakotastateu.org,612.683.5229,Dakota State University,Graduate Assistant,Minnesota,"February 1, 2026",student pass,49.00,peanut allergy,LLMs for Analysts
+R5057,  Brooke Solberg ,bsolberg@daktronics.org,16059377924,DAKTRONICS,Analytics Consultant,South Dakota,3/15/26,Regular,$349.00,kosher,LLMs for Analysts
+R5011,Hiro Yoder,hiro_yoder@@avera.org,,AVERA,Machine Learning Engineer,IA,2026-02-23,Standard,349.00,no restrictions,dbt Fundamentals
+R5032,Farid O'Neil,farido@outlook.com,(515) 408-8381,Great Western Bank,Project Manager - Data,N.D.,4/4/26,regular admission,349.00,no restrictions,Dashboard Design
+R5058,HIRO WOLD,hiro.wold@sanfordhealt.org,515-446-3899,Sanford Health,BI Developer,IOWA,02/07/2026,EARLYBIRD,$249.00,none,none
+R5005,  Wes Bergstrom ,wes.bergstrom@outlook.com,6084674229,SANFORD HEALTH,Machine Learning Engineer,Neb,1/27/26,Standard,349,,
+R5001,Rachel Nordby,racheln@gmail.com.,+1 515 986 1662,CARGILL,"Senior Director, Enterprise Data",Minn.,03-Apr-2026,SPEAKER,$0.00,"Vegetarian (no meat, fish ok?) actually no fish either",Causal Inference
+R5054,Grace Castillo,grace_castillo@greatwestern.org,402-607-8569,GREAT WESTERN BANK,BI Developer,NE,21-Mar-2026,Regular,USD 349,vegan,dbt Fundamentals
+R5084,Dakota Jorgensen,dakota_jorgensenoutlook.com,+1 701 228 5257,Wells Fargo,Machine Learning Engineer,minnesota,"February 23, 2026",Early Bird,249.00,none,LLMs for Analysts
+R5002,Grace Vang,grace.vang@gmail.com,16056523763,South Dakota State University,Undergraduate student,South Dakota,04/18/2026,STUDENT,$49.00,no restrictions,none
+R5120,EMILY DVORAK,emilyd@citibanksout.org,+1 515 838 4412,Citibank South Dakota,Project Manager - Data,IOWA,03/12/2026,regular admission,USD 349,none,LLMs for Analysts
+R5089,"Anderson, Brooke",BROOKE_ANDERSON@GMAIL.COM,13033886303,Hy-Vee,Project Manager - Data,Iowa,02/13/2026,REGULAR,349,N/A,dbt Fundamentals
+R5115,Hiro Reyes,hiror@gmail.com,515.729.3481,Midco,"Mgr, Business Intelligence",Wisc.,04/03/2026,speaker (comp),$0.00,no nuts!!,
+R5007,  Wes Ueland ,wes_ueland@daktronics.org,(701) 771-0117,Daktronics,Machine Learning Engineer,CO,2026-03-31,Regular,$349,-,Causal Inference
+R5044,"Fong, Hiro",hiro.fong@wellsfargo.org,701.986.2810,WELLS FARGO,Sr. Data Analyst,Colo.,05-Feb-2026,speaker (comp),comp,none,Causal Inference
+R5016,"Bergstrom, Brooke",brooke_bergstrom@avera.org,(303) 496-6331,AVERA,Sr. Data Analyst,ND,4/2/26,SPEAKER,$0.00,none,Causal Inference
+R5092,brooke jorgensen,bjorgensen@universityof.org,(612) 606-6114,UNIVERSITY OF SOUTH DAKOTA,Undergraduate student,Colorado,05/03/2026,Student,$49.00,-,Dashboard Design
+R5099,Zoe Lundquist,zoe_lundquist@blackhillsen.org,(701) 889-7723,Black Hills Energy,Data Science Team Lead,CO,1/26/26,Standard,USD 349,peanut allergy,dbt Fundamentals
+R5038,"Gutierrez, Cody",cody.gutierrez@gmail.com,(605) 948-6768,University of South Dakota,Business Analyst,SoDak,2026/03/14,regular admission,349.00,,dbt Fundamentals
+R5029,EMILY CASTILLO,emily.castillo@ravenindustr.org,(608) 597-3532,Raven Industries,Project Manager - Data,Colorado,"January 16, 2026",Early bird registration,USD 249,lacto-ovo vegetarian,Causal Inference
+R5083,MAYA JORGENSEN,mjorgensen@gmail.com,701-640-6223,South Dakota State University,"PhD Candidate, Information Systems",minnesota,"March 18, 2026",Student,$49,no restrictions,Causal Inference
+R5023,lars thao,lthao@southdakotas.org,,South Dakota State University,BI Developer,IOWA,2026/01/28,Early Bird,249,,dbt Fundamentals
+R5004,nikhil thao,nikhilt@gmail.com,605.918.6343,Sanford Health,"Senior Director, Enterprise Data",south dakota,3/20/26,Standard,349.00,none,Dashboard Design
+R5078,Hiro Reyes,hiror@gmail.com,+1 515 729 3481,Midco,"Mgr, Business Intelligence",Wisc.,2026-03-28,speaker (comp),$0.00,no nuts!!,
+R5100,"Solberg, Emily",emilys@cargill.org,+1 303 732 5957,Cargill,Dir. Data Strategy,minnesota,03/11/2026,Regular,349,no gluten please,Dashboard Design
+R5056,Luis Bergstrom,luis.bergstrom@cargill.org,605.265.0000,Cargill,SVP Technology,SoDak,09-Feb-2026,early-bird,249.00,none,LLMs for Analysts
+R5110,Gunnar Zimmerman,gunnar_zimmerman@wellsfargo.org,+1 515 395 9323,WELLS FARGO,Chief Data Officer,Nebr.,"January 15, 2026",EARLYBIRD,$249.00,no restrictions,none
+R5103,Grace Nordby,grace.nordby@yahoo.com,605.996.9350,University of South Dakota,Graduate Assistant,SoDak,2026-03-22,Student,49.00,none,Causal Inference
+R5093,Brooke Iverson,biverson@yahoo.com,+1 605 256 6129,TARGET,Sr. Data Analyst,South Dakota,28-Jan-2026,early-bird,$249.00,none,None
+R5052,Wes Yoder,wesy@outlook.com,,Midco,Chief Analytics Officer,S Dakota,2026-03-29,REGULAR,USD 349,N/A,
+R5082,LARS IVERSON,liverson@daktronics.org,+1 402 358 1974,Daktronics,Data Engineer II,IA,"January 30, 2026",EARLYBIRD,249,N/A,Dashboard Design
+R5021,"Zimmerman, Ingrid",ingridz@hyvee.org,605-834-1072,Hy-Vee,"Supervisor, Reporting",SD,"February 6, 2026",Early bird registration,$249,vegan,Causal Inference
+R5025,AALIYAH THAO,athao@yahoo.com,15153831563,CARGILL,Analytics Consultant,Wisconsin,3/31/26,SPEAKER,free,N/A,Dashboard Design
+R5105,Wes Haugen,wes.haugen@ravenindustr.org,,Raven Industries,Machine Learning Engineer,IOWA,02/14/2026,Standard,USD 349,veggie please,Dashboard Design
+R5055,Carmen Lundquist,carmenl@universityof.org,5157197512,UNIVERSITY OF SOUTH DAKOTA,MS Business Analytics Student,N. Dakota,14-Feb-2026,student pass,$49,,
+R5028,GRACE WOLD,grace_wold@universityof.org,608.322.2051,UNIVERSITY OF SOUTH DAKOTA,Graduate Assistant,Minnesota,2/18/26,STUDENT,49.00,none,dbt Fundamentals
+R5107,Carmen Quist,carmenq@daktronics.org,(605) 996-7404,Daktronics,Dir. Data Strategy,SD,03/05/2026,Standard,USD 349,,Causal Inference
+R5071,Hiro Quist,hquist@gmail.com,612-798-8441,South Dakota State University,Business Analyst,N.D.,3/21/26,Standard,349.00,no restrictions,Causal Inference
+R5040,  Olga Wold ,olga_wold@poet.org,6056976811,POET,Data Analyst,South Dakota,"January 28, 2026",EARLYBIRD,249,no restrictions,Causal Inference
+R5062,YUSUF VANG,yvanggmail.com,+1 605 737 1435,Cargill,Project Manager - Data,SoDak,"February 12, 2026",EARLYBIRD,$249,,LLMs for Analysts
+R5003,Rachel Wold,rachel_wold@gmail.com,(701) 757-2791,UNIVERSITY OF SOUTH DAKOTA,"Senior Director, Enterprise Data",Minn.,2026/03/12,SPEAKER,free,none,dbt Fundamentals
+R5042,Grace Quist,gquist@wellsfargo.org,(515) 262-1710,Wells Fargo,Data Science Team Lead,ND,"March 25, 2026",SPEAKER,0,no restrictions,dbt Fundamentals
+R5073,maya nordby,mnordby@citibanksout.org,605.612.2396,CITIBANK SOUTH DAKOTA,Sr. Data Analyst,South Dakota,2026/04/12,Regular,$349,halal,dbt Fundamentals
+R5113,Dakota Jorgensen,dakota_jorgensenoutlook.com,(701) 228-5257,Wells Fargo,Machine Learning Engineer,minnesota,2/23/26,Early Bird,249.00,none,LLMs for Analysts
+R5064,  Emily Ueland ,emily.ueland@gmail.com,515.329.7495,Hy-Vee,Reporting Specialist,Minn.,"January 24, 2026",early-bird,USD 249,no restrictions,None
+R5010,"Thao, Ingrid",ingridt@target.org,605-685-3631,TARGET,BI Developer,S Dakota,2026-02-21,early-bird,249.00,N/A,LLMs for Analysts
+R5081,Vanessa Pham,vpham@blackhillsen.org,,BLACK HILLS ENERGY,BI Developer,SD,01/15/2026,Early bird registration,249,Halal meals only,
+R5008,Ben Haugen,bhaugen@daktronics.org,,Daktronics,Statistician,North Dakota,2026-01-20,Standard,349.00,none,Causal Inference
+R5009,ximena quist,ximena_quist@avera.org,16055994550,Avera,BI Developer,South Dakota,2026-02-18,Early Bird,249,halal,dbt Fundamentals
+R5104,UMAR REYES,umar_reyes@yahoo.com,6054299918,Citibank South Dakota,Sr. Data Analyst,S.D.,"February 16, 2026",EARLYBIRD,$249.00,,
+R5114,Gunnar Haugen,gunnar_haugen@gmail.com,+1 605 713 8275,University of South Dakota,Project Manager - Data,S Dakota,2026-02-15,EARLYBIRD,USD 249,N/A,Causal Inference
+R5094,isabel yoder,iyoder@outlook.com,605-845-4574,Cargill,Data Analyst,SD,2026-04-06,Regular,349.00,-,dbt Fundamentals
+R5086,Lars Xiong,lars.xiong@sanfordhealt.org,(605) 565-3445,Sanford Health,"Mgr, Business Intelligence",S.D.,28-Feb-2026,Speaker,0,Halal meals only,Causal Inference
+R5069,Vanessa Thao,vanessat@yahoo.com,6053937832,WELLS FARGO,"Mgr, Business Intelligence",S.D.,"March 13, 2026",SPEAKER,free,N/A,None
+R5075,Wes Quist,wes.quist@universityof.org,(608) 464-1847,University of South Dakota,Statistician,Ia.,2026-03-01,regular admission,349.00,N/A,dbt Fundamentals
+R5111,ingrid zimmerman,ingridz@hyvee.org,(605) 834-1072,Hy-Vee,"Supervisor, Reporting",SD,2026-02-08,Early bird registration,$249,vegan,Causal Inference
+R5108,Elena Pham,ELENAP@CARGILL.ORG,17017901063,Cargill,Machine Learning Engineer,IOWA,"April 11, 2026",Standard,USD 349,lacto-ovo vegetarian,none
+R5109,Samuel Castillo,samuel.castillo@gmail.com,,Midco,Machine Learning Engineer,North Dakota,01/30/2026,early-bird,,none,Causal Inference
+R5119,WES BERGSTROM,wes.bergstrom@outlook.com,16084674229,SANFORD HEALTH,Machine Learning Engineer,Neb,2/3/26,Standard,349,,
+R5070,"Haugen, Gunnar",gunnar_haugen@gmail.com,605.713.8275,University of South Dakota,Project Manager - Data,S Dakota,2026-02-10,EARLYBIRD,USD 249,N/A,Causal Inference
+R5034,Deshawn Dvorak,deshawnd@yahoo.com,605-414-2702,Daktronics,"Supervisor, Reporting",S.D.,12-Feb-2026,Early Bird,USD 249,-,Causal Inference
+R5061,Aaliyah Vang,AALIYAH.VANG@TARGET.ORG,6129653184,Target,Chief Data Officer,Minn.,03/27/2026,REGULAR,349,-,
+R5049,nikhil mahmoud,nikhil.mahmoud@sanfordhealt.org,(605) 552-9921,SANFORD HEALTH,Machine Learning Engineer,south dakota,2026-02-24,early-bird,249,none,
+R5066,Cody Quist,cquist@gmail.com,3035456034,RAVEN INDUSTRIES,Sr. Data Analyst,IA,2026/03/25,speaker (comp),comp,"Vegetarian (no meat, fish ok?) actually no fish either",LLMs for Analysts
+R5033,Ximena Nordby,ximena.nordby@midco.org,+1 303 257 8525,Midco,SVP Technology,CO,2026-01-19,REGULAR,$349.00,no restrictions,dbt Fundamentals
+R5117,Tara Eide,tarae@yahoo.com,605-407-8892,DAKTRONICS,Director of Analytics,S Dakota,2026/02/26,early-bird,249.00,veggie please,LLMs for Analysts
+R5047,Hiro Mahmoud,hirom@midco.org,+1 605 326 7534,MIDCO,Analytics Consultant,South Dakota,2026/03/27,Standard,349.00,no restrictions,Dashboard Design
+R5014,XIMENA JORGENSEN,ximena.jorgensen@southdakotas.org,6056041668,South Dakota State University,"PhD Candidate, Information Systems",South Dakota,03/31/2026,Student,49.00,Halal meals only,LLMs for Analysts
+R5076,Dakota Reyes,dreyes@universityof.org,,University of South Dakota,"PhD Candidate, Information Systems",CO,2026/03/09,Student,$49.00,celiac - strict GF,Causal Inference
+R5118,"Fong, Farid",ffong@midco.org,605.590.4895,Midco,"Mgr, Business Intelligence",south dakota,"February 17, 2026",EB,USD 249,lacto-ovo vegetarian,Dashboard Design
+R5031,Zoe Reyes,ZOE.REYES@GREATWESTERN.ORG,5154925743,GREAT WESTERN BANK,Data Science Team Lead,N.D.,2026/02/05,Standard,349,N/A,LLMs for Analysts
+R5074,Dakota Iverson,diverson@gmail.com,6082931150,Target,Statistician,ND,2026/02/14,EB,249.00,no restrictions,Causal Inference
+R5087,Olga Jorgensen,olga_jorgensen@daktronics.org,605-780-9729,DAKTRONICS,CIO,south dakota,2026/02/06,Regular,$349,N/A,dbt Fundamentals
+R5039,hannah pham,hannah_pham@midco.org,303.518.1069,Midco,BI Developer,Ia.,2026-02-25,regular admission,$349.00,vegan,LLMs for Analysts
+R5065,Ben Anderson,ben.anderson@gmail.com,605-914-5598,Wells Fargo,Business Analyst,S Dakota,2026-04-20,Regular,USD 349,N/A,LLMs for Analysts
+R5106,HANNAH MAHMOUD,hmahmoud@citibanksout.org,612.354.8876,Citibank South Dakota,Chief Analytics Officer,IA,2026/03/28,REGULAR,USD 349,Halal meals only,dbt Fundamentals
+R5006,Elena Mahmoud,elena_mahmoud@southdakotas.org,303.240.1252,South Dakota State University,MS Business Analytics Student,IOWA,2026/01/26,Student,$49,lacto-ovo vegetarian,dbt Fundamentals
+R5013,"Gutierrez, Samuel",sgutierrez@midco,,Midco,Reporting Specialist,minnesota,2026-03-24,Regular,USD 349,N/A,LLMs for Analysts
+R5041,Jamal Nordby,jamal_nordby@outlook.com,16082045716,Raven Industries,Project Manager - Data,Iowa,"March 19, 2026",Standard,USD 349,no nuts!!,dbt Fundamentals
+R5037,tara eide,tarae@yahoo.com,+1 605 407 8892,DAKTRONICS,Director of Analytics,S Dakota,02/24/2026,early-bird,249.00,veggie please,LLMs for Analysts
+R5063,Olga Fong,olga_fong@ravenindustr.org,,Raven Industries,Data Analyst,NE,2026-02-05,EB,$249.00,-,dbt Fundamentals
+R5019,Kara Vang,kara.vang@target.org,612.528.0311,Target,Chief Analytics Officer,North Dakota,"April 11, 2026",Regular,349,gluten free,LLMs for Analysts
+R5077,"Reyes, Yusuf",yusufr@@universityof.org,605-401-7566,UNIVERSITY OF SOUTH DAKOTA,Undergraduate student,S Dakota,2026/02/28,STUDENT,$49.00,N/A,None
+R5017,Samuel Nordby,samuel_nordby@cargill,605.537.6834,Cargill,Project Manager - Data,SoDak,3/17/26,regular admission,USD 349,GF,none
+R5035,Brooke Fong,brookef@yahoo.com,16058768938,UNIVERSITY OF SOUTH DAKOTA,Graduate Assistant,South Dakota,"March 27, 2026",Student,USD 49,vegetarian,LLMs for Analysts
+R5102,Yusuf Lundquist,yusuf_lundquist@southdakotas.org,,South Dakota State University,Undergraduate student,IA,"March 19, 2026",STUDENT,$49.00,no restrictions,Dashboard Design
+R5026,samuel iverson,samuel_iverson@cargill.org,,Cargill,Dir. Data Strategy,South Dakota,22-Feb-2026,Regular,$349,N/A,Causal Inference
+R5072,Pedro Anderson,PEDROA@YAHOO.COM,,Dakota State University,Undergraduate student,SD,2026/03/19,Student,49,none,LLMs for Analysts
+R5020,Rachel Kowalski,rachel_kowalski@cargill.org,+1 605 855 6634,Cargill,Analytics Consultant,south dakota,2/9/26,EARLYBIRD,249.00,no restrictions,Causal Inference
+R5036,Lars Jorgensen,lars.jorgensen@outlook.com,(402) 383-7376,University of South Dakota,Business Analyst,WI,2/28/26,Early Bird,249.00,-,dbt Fundamentals
+R5116,J. Ueland,jamalu@yahoo.com,,Hy-Vee,Dir. Data Strategy,Minnesota,2026/02/16,EB,$249.00,none,Dashboard Design
+R5088,Pedro Mahmoud,pedrom@wellsfargo.org,605.527.5194,Wells Fargo,Analytics Manager,South Dakota,02/23/2026,Regular,$349,N/A,
+R5067,quinn fong,qfong@yahoo.com,701.529.0909,Mayo Clinic,Director of Analytics,Neb,2026/02/06,EB,249,,none
+R5085,HANNAH O'NEIL,honeil@outlook.com,16083983485,Great Western Bank,Analytics Consultant,North Dakota,"March 9, 2026",Standard,349.00,"Vegetarian (no meat, fish ok?) actually no fish either",Dashboard Design
+R5096,Brooke Pham,brookep@yahoo.com,605.969.5684,University of South Dakota,Graduate Assistant,SoDak,29-Mar-2026,Student,USD 49,none,dbt Fundamentals
+R5101,Farid Fong,ffong@midco.org,16055904895,Midco,"Mgr, Business Intelligence",south dakota,16-Feb-2026,EB,USD 249,lacto-ovo vegetarian,Dashboard Design
+R5018,Vanessa Jorgensen,vanessa_jorgensen@dakotastateu.org,(605) 793-7409,Dakota State University,Undergraduate student,S Dakota,"March 21, 2026",STUDENT,$49,N/A,Dashboard Design
+R5091,"Yoder, Zoe",zyoder@yahoo.com,+1 608 940 4210,UNIVERSITY OF SOUTH DAKOTA,Dir. Data Strategy,minnesota,2026/01/17,REGULAR,349,none,None
+R5046,Ximena Lundquist,xlundquist@cargill.org,608-592-9489,Cargill,Director of Analytics,ND,"February 7, 2026",Standard,$349,-,none
+R5024,Emily Xiong,emily_xiong@poet.org,(515) 586-0930,POET,Analytics Consultant,Colorado,2026/02/06,REGULAR,USD 349,-,dbt Fundamentals
