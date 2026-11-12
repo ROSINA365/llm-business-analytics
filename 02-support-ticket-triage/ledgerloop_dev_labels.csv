@@ -1,0 +1,21 @@
+ticket_id,category,urgency,sentiment,body_phones,invoice_ids
+T-1001,Feature Request,Low,Positive,,
+T-1002,Billing,Medium,Neutral,+16055550142,INV-2025-00417
+T-1003,Cancellation,Medium,Neutral,,
+T-1004,Billing,Low,Neutral,,
+T-1005,Technical,Medium,Neutral,,
+T-1006,Feature Request,Low,Positive,,
+T-1007,Technical,Medium,Negative,,INV-2025-01022
+T-1008,Billing,High,Negative,,INV-2025-00802
+T-1009,Account Access,Low,Neutral,,
+T-1010,Feature Request,Low,Neutral,,
+T-1011,Feature Request,Low,Positive,,
+T-1012,Feature Request,Low,Neutral,,
+T-1013,Feature Request,Medium,Neutral,,
+T-1014,Technical,Critical,Negative,,
+T-1015,Cancellation,Low,Neutral,,
+T-1016,Billing,High,Negative,,
+T-1017,Cancellation,Medium,Negative,,
+T-1018,Account Access,Low,Positive,,
+T-1019,Technical,Low,Positive,,
+T-1020,Technical,Medium,Neutral,+16055550188,
